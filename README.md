@@ -37,35 +37,35 @@ pip install -r requirements.txt
 
 ## Tecnologias Utilizadas
 
-### 1. **Python**
+### **Python**
 
 Descrição: Linguagem de programação de alto nível, amplamente utilizada para scripts e automação, bem como para desenvolvimento de aplicações web e análise de dados.
 
-### 2. **Instaloader**
+### **Instaloader**
 
 Descrição: Biblioteca Python que permite baixar imagens, vídeos e outros conteúdos de posts, perfis, hashtags e histórias do Instagram. No seu projeto, ela é usada para baixar posts específicos do Instagram a partir da URL fornecida pelo usuário.
 
 Link: [Instaloader no GitHub](https://github.com/instaloader/instaloader)
 
-### 3. **Requests**
+### **Requests**
 
 Descrição: Biblioteca Python para fazer requisições HTTP de maneira simples e elegante. É usada para baixar o conteúdo (imagens ou vídeos) do Instagram a partir das URLs dos posts.
 
 Link: [Requests no GitHub](https://github.com/psf/requests)
 
-### 4. **os**
+### **os**
 
 Descrição: Módulo integrado do Python que fornece funções para interagir com o sistema operacional, como manipulação de arquivos e diretórios.
 
 Link: [os no Python Docs](https://docs.python.org/3/library/os.html)
 
-### 5. **shutil**
+### **shutil**
 
 Descrição: Módulo integrado do Python que fornece funções para manipulação de arquivos e operações de cópia, movimentação e remoção de arquivos.
 
 Link: [shutil no Python Docs](https://docs.python.org/3/library/shutil.html)
 
-### 6. **datetime**
+### **datetime**
 
 Descrição: Módulo integrado do Python que oferece classes para manipulação de datas e horas.
 
