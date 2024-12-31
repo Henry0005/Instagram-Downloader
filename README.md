@@ -2,10 +2,10 @@
 
 Este projeto permite que você baixe conteúdo de posts do Instagram, incluindo imagens, vídeos e carrosséis (posts com múltiplas imagens). O script utiliza a biblioteca `Instaloader` para realizar o download e organiza os arquivos em uma pasta baseada na data e hora do download.
 
-## Funcionalidade
+## Funcionalidades
 
 - Baixa imagens, vídeos ou carrosséis de posts do Instagram.
-- Cria um diretório único para cada download, baseado na data e hora atual, no formato (YYYY-MM-DD_HH-MM-SS), para evitar a sobreposição de arquivos.
+- Cria um diretório único para cada download, baseado na data e hora atual, para evitar sobreposição de arquivos.
 - Verifica automaticamente se o link fornecido é válido e adiciona o prefixo `https://` se necessário.
 - Em caso de erro, remove a pasta criada durante o processo de download.
 
